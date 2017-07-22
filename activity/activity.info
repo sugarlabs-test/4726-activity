@@ -5,3 +5,4 @@ bundle_id = org.laptop.SpaceWar
 exec = sugar-activity activity.SpaceWarActivity
 icon = activity-spacewar
 show_launcher = yes
+license = No_License
